@@ -304,7 +304,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(../images/header-img5.jpeg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -330,6 +330,12 @@ ul li {
 	line-height: 24px;
 	margin-top: 30px;
 	margin-bottom: 80px;
+}
+
+.evisoft-logo{
+	max-width:215px;
+	margin-top: -10%;
+	margin-left: 11.5%;
 }
 /* ==========================================================================
 	$intro

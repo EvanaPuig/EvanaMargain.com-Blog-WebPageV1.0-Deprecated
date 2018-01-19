@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ff",
+				"ffffff"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bol",
+				"bolder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"rsub",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/evana.margain/Documents/Personal/Evisoft/WebPageV1"
+	],
+	"file_history":
+	[
+		"/Users/evana.margain/Documents/Personal/Evisoft/WebPageV1/index.html",
+		"/Users/evana.margain/Documents/Personal/funding_uk/main/css/colors/green.css",
+		"/Users/evana.margain/Documents/Personal/funding_uk/main/css/style.css",
+		"/Users/evana.margain/Documents/Personal/funding_uk/main/css/colors/green-2.css",
+		"/Users/evana.margain/Documents/Personal/funding_uk/main/css/responsive.css",
+		"/Users/evana.margain/Documents/Personal/funding_uk/funding_uk.sublime-project",
+		"/Users/evana.margain/Documents/Personal/funding_uk/main/index.html",
+		"/Users/evana.margain/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/Users/evana.margain/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/evana.margain/StudioProjects/nativeUIPrototype/NativeUIPrototype/node_modules/metro-bundler/src/Resolver/polyfills/require.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.git-push":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "evisoft-webpagev1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
