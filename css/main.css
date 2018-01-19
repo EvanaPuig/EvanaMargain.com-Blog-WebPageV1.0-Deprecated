@@ -332,16 +332,12 @@ ul li {
 	margin-bottom: 80px;
 }
 
-.evisoft-logo{
-	max-width:215px;
-	margin-top: -10%;
-	margin-left: 11.5%;
-}
+
 /* ==========================================================================
 	$intro
 ========================================================================== */
 .intro {
-	background-color: #00aeda;
+	background-color: #25336a;
 }
 .intro h3 {
 	color: #fff;
@@ -366,7 +362,7 @@ ul li {
 	margin-top: 30px;
 }
 .services .icon {
-	color: #00aeda;
+	color: #00a5de;
 	font-size: 50px;
 	padding-left: 15px;
 }
@@ -385,7 +381,7 @@ ul li {
 	height: 100%;
 }
 .work .overlay {
-	background: rgba(0, 174, 218, 0.9);
+	background: rgba(0, 165, 222, 0.9);
 	height: 100%;
 	left: 0;
 	opacity: 0;
@@ -505,7 +501,7 @@ ul li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #00aeda;
+	background-color: #00a5de;
 	position: relative;
 	text-align: center;
 }
